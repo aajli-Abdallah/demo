@@ -1,2 +1,1 @@
-# demo
-demo y first repo
+this is a demo !
